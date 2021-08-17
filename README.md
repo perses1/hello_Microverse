@@ -1,7 +1,5 @@
-![Alt text](app_screenshot.png)
 # test program for Microverse
-test program for Microverse
-
+testing css/html,gitflow and linters.
 ### Prerequisites
 having a working browser
 ### Usage
@@ -21,3 +19,4 @@ GitHub: @perses1
 Twitter: @pablora70339971
 
 LinkedIn: https://www.linkedin.com/in/pablo-ramirez-208265216/
+![Alt text](app_screenshot.png)
