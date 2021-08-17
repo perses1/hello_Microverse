@@ -1,5 +1,4 @@
-![](https://img.shields.io/badge/Microverse-blueviolet)
-
+![Alt text](app_screenshot.png)
 # Project Name
 test program for Microverse
 
