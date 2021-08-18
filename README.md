@@ -22,7 +22,7 @@ HTML/CSS.
 
 this is an test website for microverse.
 
-To get a local copy up and running follow these simple example steps.
+To get a local copy up and running follow these simple  steps.
 
 -Download the repository.
 
