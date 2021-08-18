@@ -1,14 +1,32 @@
 # test program for Microverse
 testing css/html,gitflow and linters.
+
+### screenshot
+
+![Alt text](app_screenshot.png)
+
+
 ### Prerequisites
-having a working browser
+
+Having a working browser.
+
 ### Usage
-click on the html file
+
+Click on the html file.
 
 ### Built With
-css
 
-html
+HTML/CSS.
+
+### Getting Started
+
+this is an test website for microverse.
+
+To get a local copy up and running follow these simple example steps.
+
+-Download the repository.
+
+-Click on the index.html.
 
 ### Authors
 
@@ -20,6 +38,8 @@ Twitter: @pablora70339971
 
 LinkedIn: https://www.linkedin.com/in/pablo-ramirez-208265216/
 
-### screenshot
+Show your support
+Give a ⭐️ if you like this project!
 
-![Alt text](app_screenshot.png)
+### 📝 License
+This project is MIT license.
